@@ -1,6 +1,6 @@
-### Simon Murray's GitHub Profile
+# Welcome! 🌅 
 
-Hello and welcome to my GitHub profile!
+Thank you for visiting my GitHub profile!
 
 I thought I would add a little guide to help you navigate my profile more easily.
 
@@ -25,3 +25,5 @@ I have created a [contribution guide](https://github.com/SimonDMurray/contributi
 
 ### Contact
 If you wish to contact me please use: `simondonaldmurray [at] gmail [dot] com`
+
+### Have a Nice Day! 🌌 
