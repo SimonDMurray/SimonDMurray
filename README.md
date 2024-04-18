@@ -20,8 +20,8 @@ I have created a [contribution guide](https://github.com/SimonDMurray/contributi
 * Sept 2019 - Dec 2023:
   * [Cellular Genetics Informatics](https://github.com/cellgeni) - I worked as a Bioinformatician with the Cellular Genetics Informatics team at the Wellcome Sanger Institute for four years whilst earning my degree. My job was to support the Cellular Genetics Faculty by developing high throughput scRNAseq analysis pipelines for their research, building containers with docker and singularity to add additional software to Sanger's IBM LSF HPC, fixing faculty built environments managed by conda and aiding faculty to navigate the infrastructure and job scheduler on the Sanger HPC.
  
-* Jan 2024 - Present:
-  * [Eco-Flow](https://github.com/Eco-Flow) - I am currently working as a Senior Research Technician - Bioinformatics at UCL as the Technical Lead on the Eco-Flow project. This project is designed to build gold standard nf-core compliant Nextflow pipelines for ecologists at varying universities throughout the UK. The aim is to alleviate the strain they experience when trying to complete high through put analysis on their universities' HPC by providing portable, containerised pipelines.
+* Jan 2024 - May 2024:
+  * [Eco-Flow](https://github.com/Eco-Flow) - I worked as a Senior Research Technician - Bioinformatics at UCL as the Technical Lead on the Eco-Flow project. This project is designed to build gold standard nf-core compliant Nextflow pipelines for ecologists at varying universities throughout the UK. The aim is to alleviate the strain they experience when trying to complete high through put analysis on their universities' HPC by providing portable, containerised pipelines.
 
 ### Contact
 If you wish to contact me please use: `simondonaldmurray [at] gmail [dot] com`
