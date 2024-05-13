@@ -23,6 +23,9 @@ I have created a [contribution guide](https://github.com/SimonDMurray/contributi
 * Jan 2024 - May 2024:
   * [Eco-Flow](https://github.com/Eco-Flow) - I worked as a Senior Research Technician - Bioinformatics at UCL as the Technical Lead on the Eco-Flow project. This project is designed to build gold standard nf-core compliant Nextflow pipelines for ecologists at varying universities throughout the UK. The aim is to alleviate the strain they experience when trying to complete high through put analysis on their universities' HPC by providing portable, containerised pipelines.
 
+* May 2024 - Present:
+  * I am currently working as a Bioinformatics Engineer at Genomics England.
+
 ### Contact
 If you wish to contact me please use: `simondonaldmurray [at] gmail [dot] com`
 
